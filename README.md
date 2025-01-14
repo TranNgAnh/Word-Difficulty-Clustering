@@ -16,5 +16,9 @@ pip install -r requirements.txt
 
 ## Notebook
 
-* Code: [FinalProject_groupXXX.ipynb](FinalProject_groupXXX.ipynb)
+* Code: [FinalProject_groupWordDifficulty.ipynb](FinalProject_groupWordDifficulty.ipynb)
 * [Code PDF Version](notebook.pdf)
+
+## Acknowledgement
+
+This project is a cumilation of our team's work which comprised of Kendrick Nguyen, Eric Song, and myself, Anh Tran. This project is to demonstrate our understanding of various clustering methods, and dimensionality reduction in order to perform unsupervised machine learning techniques on the word difficulty dataset that was published on <a href="https://kaggle.com/datasets/kkhandekar/word-difficulty">Kaggle</a> by the user koustubhk. 
